@@ -10,7 +10,7 @@
 - 💡 I love building **projects** using **HTML, CSS, JS, and Python**
 - 💻 Practicing **DSA in Java, C++, and C#**
 - 🧠 Currently learning **ReactJS & Backend Development**
-- 📫 Email me at: [arpitpandey0222@gmail.com](mailto:arpitpandey0222@gmail.com)
+- 📫 Email me at: [Ishitahaldhar@gmail.com](mailto:arpitpandey0222@gmail.com)
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/arpit-pandey-901a2a271)
 
 ---
@@ -47,22 +47,13 @@
 
 ### 📂 Featured Projects
 
-Here are a few of my highlighted projects:
-
-- 🔐 [**Online Voting System**](https://github.com/Arpit0111/Online-voting-sample) – Secure online election system using HTML, CSS & JS  
-- 📊 [**Admission Prediction (Python)**](https://github.com/Arpit0111/Admission_Prediction) – ML-based prediction system  
-- 🧾 [**E-Bill System Using Python**](https://github.com/Arpit0111/E_BILL-USING-PYTHON-) – Basic billing system with GUI  
-- 🔐 [**ONLY_HTML_ONLINE_LOGIN**](https://github.com/Arpit0111/ONLY_HTML_ONLINE_LOGIN) – Login page with validation using only HTML/CSS
-
----
-
 ### 📬 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/arpit-pandey-901a2a271">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:arpitpandey0222@gmail.com">
+  <a href="mailto:ishitahaldhar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
