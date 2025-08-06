@@ -1,24 +1,30 @@
-## 👋 Hi, I'm ISHITA HALDHAR
-
-A passionate frontend developer and DSA enthusiast using Java and C#
-
-- 🌍 Location: Prayagraj, Uttar Pradesh  
-- 🎓 Education: Bachelor of Computer Application (BCA)  
-- 📧 Email: [arpitpandey0222@gmail.com](mailto:arpitpandey0222@gmail.com)  
-- 🔗 LinkedIn: [arpit-pandey-901a2a271](https://www.linkedin.com/in/arpit-pandey-901a2a271)
+<h1 align="center">Hi 👋, I'm Ishita haldhar</h1>
+<h3 align="center">A passionate Frontend Developer and DSA enthusiast using Java, C++, and C#</h3>
 
 ---
 
-## 🛠️ Languages & Tools
+### 📍 About Me
 
-### 👨‍💻 Frontend Technologies
+- 🌍 I'm from **Prayagraj, Uttar Pradesh**
+- 🎓 Pursuing **Bachelor of Computer Application (BCA)**  
+- 💡 I love building **projects** using **HTML, CSS, JS, and Python**
+- 💻 Practicing **DSA in Java, C++, and C#**
+- 🧠 Currently learning **ReactJS & Backend Development**
+- 📫 Email me at: [arpitpandey0222@gmail.com](mailto:arpitpandey0222@gmail.com)
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/arpit-pandey-901a2a271)
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🌐 Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### 💻 Programming Languages
+#### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -26,13 +32,46 @@ A passionate frontend developer and DSA enthusiast using Java and C#
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-### 📊 Data Structures & Algorithms
+#### 🧠 Data Structures & Algorithms
 <p>
-  <img src="https://img.shields.io/badge/DSA-in%20Java/C++/C%23-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Java%20|%20C++%20|%20C%23-blueviolet?style=for-the-badge" />
 </p>
 
-### 🧰 Tools
+#### ⚒️ Tools
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge
-  
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+Here are a few of my highlighted projects:
+
+- 🔐 [**Online Voting System**](https://github.com/Arpit0111/Online-voting-sample) – Secure online election system using HTML, CSS & JS  
+- 📊 [**Admission Prediction (Python)**](https://github.com/Arpit0111/Admission_Prediction) – ML-based prediction system  
+- 🧾 [**E-Bill System Using Python**](https://github.com/Arpit0111/E_BILL-USING-PYTHON-) – Basic billing system with GUI  
+- 🔐 [**ONLY_HTML_ONLINE_LOGIN**](https://github.com/Arpit0111/ONLY_HTML_ONLINE_LOGIN) – Login page with validation using only HTML/CSS
+
+---
+
+### 📬 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/arpit-pandey-901a2a271">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arpitpandey0222@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpit0111&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit0111&layout=compact" height="150"/>
+</p>
